@@ -18,7 +18,7 @@ This is sort of like a changelog for this site, but also just wanted to document
 
 ## Now Playing Indicator
 
-I wanted to show some personality with what kind of music I am listening to, so I added a "Now Playing" indicator to the top of the page. I built my personal music API endpoint with Cloudflare Workers which fetches the current playing song from my Spotify account. Thankfully with [HealthViz](/projects/healthviz.html) I already have an Apple Developer account to use MusicKit for Apple Music. 
+I wanted to show some personality with what kind of music I am listening to, so I added a "Now Playing" indicator to the top of the page. I built my personal music API endpoint with Cloudflare Workers which fetches the current playing song from my Spotify account. Thankfully with HealthViz I already have an Apple Developer account to use MusicKit for Apple Music. 
 
 This has evolved into a distinct project for me, so check it out about it in my [Now Playing API project](/projects/now-playing-indicator.html).
 

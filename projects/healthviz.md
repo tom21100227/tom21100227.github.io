@@ -5,7 +5,7 @@ image: img/healthviz/healthviz_icon_compressed.png
 title: "HealthViz"
 startDate: 2025
 date: present
-published: true
+published: false
 labels:
   - Swift
   - SwiftUI

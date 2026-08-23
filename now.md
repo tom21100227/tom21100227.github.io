@@ -27,7 +27,7 @@ Currently I am trying to learn more about:
 
 - Prefect: A orchestrator that I've been using for work. It seems like it is super powerful and I want to be a master at it. Recently just became a contributor for it!
 - State-based Model: A coworker recommended me [this awesome YouTube video on it](https://www.youtube.com/watch?v=9TwfcHbBbeY&t=1s) and I've been working through it, wish I had stronger of a background in mathematics for things like this! 
-- iOS Development: Trying to build my first iOS app [HealthViz](/projects/healthviz). Just released an v0.1, but trying to add some AI into this! 
+- iOS Development: Trying to build my first iOS app HealthViz. Just released an v0.1, but trying to add some AI into this! 
 
 ## Media Consumption
 
