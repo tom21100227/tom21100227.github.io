@@ -64,6 +64,8 @@
     {% endif %}
     <script defer src="{{ site.baseurl }}/js/project-cards.js"></script>
     <script defer src="{{ site.baseurl }}/js/theme-toggle.js"></script>
+    <link rel="preconnect" href="https://analytics.tomhcy.workers.dev">
+    <script defer src="{{ site.baseurl }}/js/metrics.js"></script>
     {% if page.mermaid %}
     <script type="module">
       import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
